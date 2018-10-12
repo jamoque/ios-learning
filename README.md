@@ -14,6 +14,6 @@ I learn best through books, so if you are looking for a good book for getting st
 
 ## Apps
 
-[UT GamePlan](https://github.com/UTGamePlan/GamePlanIOS): Built by myself and [@courtbohrer](https://github.com/courtbohrer) back in 2014, this was an app that showed you tailgates and parties on game days during football season. We used Facebook's now-defunct [Parse](https://en.wikipedia.org/wiki/Parse_(platform)) on the backend and the [Graph API](https://developers.facebook.com/docs/graph-api/) for users to invite their friends. Our biggest weekend, we had 4k users. The app was eventually removed from the store because of a cease-and-desist from UT.
+- [UT GamePlan](https://github.com/UTGamePlan/GamePlanIOS): Built by myself and [@courtbohrer](https://github.com/courtbohrer) back in 2014, this was an app that showed you tailgates and parties on game days during football season. We used Facebook's now-defunct [Parse](https://en.wikipedia.org/wiki/Parse_(platform)) on the backend and the [Graph API](https://developers.facebook.com/docs/graph-api/) for users to invite their friends. Our biggest weekend, we had 4k users. The app was eventually removed from the store because of a cease-and-desist from UT.
 
-[RealMassive iOS](https://itunes.apple.com/app/apple-store/id894642997) As an intern, built the iOS client app for real-estate agents and brokers to use while talking with clients.
+- [RealMassive iOS](https://itunes.apple.com/app/apple-store/id894642997) As an intern, built the iOS client app for real-estate agents and brokers to use while talking with clients.
